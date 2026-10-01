@@ -26,9 +26,6 @@
 
 ## 🚀 What We Explore
 
-We bring communication technology to life through hands-on learning,
-experimentation, and real-world applications.
-
 | 📊 MATLAB | 🌐 IoT | 🤖 Machine Learning |
 |:---:|:---:|:---:|
 | Simulation & Analysis | Smart Systems | Intelligent Systems |
@@ -38,8 +35,7 @@ experimentation, and real-world applications.
 ## 🔬 Our Learning Journey
 
 **01 — MATLAB**  
-Explore simulation, signal processing, data analysis, and engineering computation.
-
+Explore simulation, signal processing.
 **02 — Internet of Things**  
 Build connected systems using sensors, devices, and real-time data.
 
@@ -61,7 +57,7 @@ people, devices, and ideas.
 ## ⚡ Our Focus
 
 `Communication Systems` `MATLAB` `IoT` `Machine Learning`  
-`Signal Processing` `Technology Innovation`
+`Signal Processing`
 
 ---
 
