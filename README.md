@@ -1,9 +1,9 @@
-# Hey, We're Siskom Workshop 👋
+# Hey, We're Siskom👋
 
 ### 📡 Communication Systems Workshop
 **Telkom University**
 
-> ## Creating Innovation for Communication
+> ## Create Innovation for Communication
 > *Learn • Build • Innovate • Connect*
 
 ---
