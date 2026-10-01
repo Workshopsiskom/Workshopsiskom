@@ -9,25 +9,22 @@
 ╚══════╝╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝  ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝
 </pre>
 
-<div align="center">
-
 <img src="subtitle.svg" alt="CREATE INNOVATION FOR COMMUNICATION" />
 
 </div>
 
+# Hey, We're Siskom 👋
 
+## 📡 Communication Systems Workshop
 
-# Hey, We're Siskom👋
-
-### 📡 Communication Systems Workshop
 **Telkom University**
 
-> ## Create Innovation for Communication
+> ### Create Innovation for Communication
 > *Learn • Build • Innovate • Connect*
 
 ---
 
-### 🚀 What We Explore
+## 🚀 What We Explore
 
 We bring communication technology to life through hands-on learning,
 experimentation, and real-world applications.
@@ -38,7 +35,7 @@ experimentation, and real-world applications.
 
 ---
 
-### 🔬 Our Learning Journey
+## 🔬 Our Learning Journey
 
 **01 — MATLAB**  
 Explore simulation, signal processing, data analysis, and engineering computation.
@@ -51,7 +48,7 @@ Discover how data can be transformed into intelligent solutions.
 
 ---
 
-### 💡 Beyond the Workshop
+## 💡 Beyond the Workshop
 
 > **Think. Create. Connect.**
 
@@ -61,13 +58,13 @@ people, devices, and ideas.
 
 ---
 
-### ⚡ Our Focus
+## ⚡ Our Focus
 
 `Communication Systems` `MATLAB` `IoT` `Machine Learning`  
 `Signal Processing` `Technology Innovation`
 
 ---
 
-### 📡 Create Innovation for Communication
+## 📡 Create Innovation for Communication
 
 **Learn Today. Build Tomorrow. Connect the Future.**
