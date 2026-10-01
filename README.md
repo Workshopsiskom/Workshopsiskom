@@ -50,7 +50,7 @@ Discover how data can be transformed into intelligent solutions.
 > **Think. Create. Connect.**
 
 We believe communication technology is not just about transmitting
-information — it's about creating innovative solutions that connect
+information, it's about creating innovative solutions that connect
 people, devices, and ideas.
 
 ---
