@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="50" viewBox="0 0 700 50">
+  <style>
+    text {
+      font-family: 'Fira Code', 'Courier New', monospace;
+      font-size: 20px;
+      fill: #FFFFFF;
+    }
+    .rise {
+      animation: rise 4s ease-out infinite;
+    }
+    @keyframes rise {
+      0%   { transform: translateY(40px); opacity: 0; }
+      25%  { transform: translateY(0);    opacity: 1; }
+      85%  { transform: translateY(0);    opacity: 1; }
+      100% { transform: translateY(0);    opacity: 0; }
+    }
+  </style>
+  <text class="rise" x="50%" y="32" text-anchor="middle">CREATE INNOVATION FOR COMMUNICATION</text>
+</svg>
