@@ -1,8 +1,6 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Workshopsiskom/Workshopsiskom/main/siskom_typing_banner.gif" width="800">
-
-</div>
+<p align="center">
+  <img src="./siskom-header.gif" alt="SISTEM KOMUNIKASI - create innovation for communication" width="100%">
+</p>
 
 # Hey, We're Siskom👋
 
