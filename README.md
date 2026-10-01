@@ -1,22 +1,10 @@
 <div align="center">
 
-```
-███████╗██╗███████╗████████╗███████╗███╗   ███╗
-██╔════╝██║██╔════╝╚══██╔══╝██╔════╝████╗ ████║
-███████╗██║███████╗   ██║   █████╗  ██╔████╔██║
-╚════██║██║╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║
-███████║██║███████║   ██║   ███████╗██║ ╚═╝ ██║
-╚══════╝╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&width=700&height=70&lines=SISTEM+KOMUNIKASI" alt="SISTEM KOMUNIKASI" />
 
-██╗  ██╗ ██████╗ ███╗   ███╗██╗   ██╗███╗   ██╗██╗██╗  ██╗ █████╗ ███████╗██╗
-██║ ██╔╝██╔═══██╗████╗ ████║██║   ██║████╗  ██║██║██║ ██╔╝██╔══██╗██╔════╝██║
-█████╔╝ ██║   ██║██╔████╔██║██║   ██║██╔██╗ ██║██║█████╔╝ ███████║███████╗██║
-██╔═██╗ ██║   ██║██║╚██╔╝██║██║   ██║██║╚██╗██║██║██╔═██╗ ██╔══██║╚════██║██║
-██║  ██╗╚██████╔╝██║ ╚═╝ ██║╚██████╔╝██║ ╚████║██║██║  ██╗██║  ██║███████║██║
-╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝
-```
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=560&lines=create+innovation+for+communication" alt="create innovation for communication" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&width=640&lines=CREATE+INNOVATION+FOR+COMMUNICATION" alt="CREATE INNOVATION FOR COMMUNICATION" />
 
 </div>
 
