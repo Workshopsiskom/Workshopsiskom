@@ -28,7 +28,7 @@
 
 | 📊 MATLAB | 🌐 IoT | 🤖 Machine Learning |
 |:---:|:---:|:---:|
-| Simulation & Analysis | Smart Systems | Intelligent Systems |
+| Simulation Signal | Smart Systems | Intelligent Systems |
 
 ---
 
