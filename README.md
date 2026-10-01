@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="siskom_typing_banner.gif" width="800">
+
+</div>
+
 # Hey, We're Siskom👋
 
 ### 📡 Communication Systems Workshop
