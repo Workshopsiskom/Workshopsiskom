@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./siskom_typing_banner.gif" width="800">
+<img src="https://raw.githubusercontent.com/Workshopsiskom/Workshopsiskom/main/siskom_typing_banner.gif" width="800">
 
 </div>
 
