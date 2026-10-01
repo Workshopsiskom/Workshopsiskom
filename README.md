@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./siskom-header.gif" alt="SISTEM KOMUNIKASI - create innovation for communication" width="100%">
+  <img src="./siskom-header-dark.gif" alt="SISTEM KOMUNIKASI - create innovation for communication" width="100%">
 </p>
 
 # Hey, We're Siskom👋
